@@ -1,0 +1,226 @@
+musicmp3.Sayed_Khalifa /// السيد خليفة
+3658961
+video
+video1
+banner
+musicmp3.Gaafar_alSagid /// جعفر السقيد
+3658963
+video
+video1
+banner
+musicmp3.Othman_Hussein /// عثمان حسين
+3658983
+video
+video1
+banner
+=musicmp3.iiman_btam_rawabih /// ايمان بت ام روابه
+3658995
+video
+video1
+banner
+musicmp3.Shilat_SaadMohsen /// شيلات سعد محسن
+3659005
+video
+video1
+banner
+=musicmp3.Engin_Nursani  ///  أنكين نورشان
+3660415
+video
+video1
+banner
+musicmp3.Mohammed_AlSamer  ///  محمد السامر
+3660417
+video
+video1
+banner
+musicmp3.Mona_Magde  /// مني مجدي
+3660419
+video
+video1
+banner
+musicmp3.Issa_Alhasai  ///  عيسى الاحسائي
+3658665
+video
+video1
+banner
+musicmp3.Bosnian_songs  ///  الأغاني البوسنية
+3660427
+video
+video1
+banner
+musicmp3.Haram_Alnuwr  ///  حرم النور
+3660429
+video
+video1
+banner
+musicmp3.Fouad_AlKabsi ///  فؤاد الكبسي
+3660431
+video
+video1
+banner
+musicmp3.Faisal_Alawi ///  فيصل علوي
+3660435
+video
+video1
+banner
+musicmp3.korea_Top /// اغاني-كورية
+3660437
+video
+video1
+banner
+musicmp3.Nancy_Ajaj  /// نانسي عجاج
+3660445
+video
+video1
+banner
+musicmp3.Laila_Ghofran /// ليلى غفران
+3660449
+video
+video1
+banner
+musicmp3.Mohammed_AlBabali  ///  محمد البابلي
+3660453
+video
+video1
+banner
+musicmp3.Hussein_Ghazal ///  حسين الغزال
+3660455
+video
+video1
+banner
+musicmp3.Shilat_Fahad_BinFasla  /// شيلات فهد بن فصلا
+3660457
+video
+video1
+banner
+musicmp3.Shilat_Abdulkarim_Alharbi  ///  شيلات عبدالكريم الحربي
+3660463
+video
+video1
+banner
+musicmp3.Haitham_Yousef  ///  هيثم يوسف
+3660467
+video
+video1
+banner
+musicmp3.Taha_Sulaiman  /// طه سليمان
+3660469
+video
+video1
+banner
+musicmp3.Meshary_AlArada  ///  اناشيد مشاري العرادة
+3660471
+video
+video1
+banner
+musicmp3.Raad_Elnaseri  /// رعد الناصري
+3660473
+video
+video1
+banner
+musicmp3.Salah_Bahar  ///  صلاح البحر
+3660475
+video
+video1
+banner
+musicmp3.Ali_Aldelfi  /// علي الدلفي
+3660479
+video
+video1
+banner
+musicmp3.Mahmoud_Abdulaziz  ///  محمود عبد العزيز
+3660481
+video
+video1
+banner
+musicmp3.Mohammed_AlDareer  ///  محمد الضرير
+3660487
+video
+video1
+banner
+musicmp3.chilat_fahdmessid  /// شيلات فهد المسيعيد
+3660489
+video
+video1
+banner
+musicmp3.Nasser_Elba7ar  /// نصر البحار
+3660493
+video
+video1
+banner
+===musicmp3.Sulwan_Alnnasiri ///   المنشيد سلوان الناصري
+366049311
+video
+video1
+banner
+musicmp3.Riad_Ahmed  /// رياض احمد
+3660495
+video
+video1
+banner
+musicmp3.Saedi_Alhuliy  ///  سعدي الحلي
+3660497
+video
+video1
+banner
+------------------------------------------------------
+musicmp3.Shaima_AlShayeb  /// شيماء الشايب
+3591953
+video
+video1
+banar
+musicmp3.Mahmoud_AlQaseer  /// محمود القصير
+3591990
+video
+video1
+banar
+musicmp3.Qahtan_Budairi  /// قحطان البديري
+3591974
+video
+video1
+banar
+=musicmp3.Muath_Aljamaz  /// شيلات معاذ الجماز
+3591979
+video
+video1
+banar
+musicmp3.Imad_Rami   ///  عماد رامي
+3591984
+video
+video1
+banar
+=musicmp3.Younis_Aboudi  /// يونس العبودي
+3660691
+video
+video1
+banar
+
+
+musicmp3.Mohammed_Fares  /// محمد فارس
+musicmp3.Yousef_Smara  ///  يوسف سماره
+musicmp3.Yahia_Alaa  ///  يحيى علاء
+musicmp3.Nada_Algalaa  /// ندى القلعة
+musicmp3.  ///   محمد وردي
+musicmp3. /// عبد الحليم حافظ
+كريم منصور
+
+
+
+هذا التطبيق يستخدم خدمة وسيطة.
+إعداد الخدمة الوسيطة
+رمز وصول مستخدم النظام
+EAAQv6nuWWH8BAIyEACW3HHaHiuZAZAoZAw7qBtnlFQdVwVZBPtLNNu4Lv9wsBzraioevySUGER4ZAg2Tna1xkjkWQp2uO8i7XQZCA08ScM0ZA79cjrrIudG0VNhGUcZA99Pelvpv9oWSUki6JxUibFa9VNUnsGZBZCkn61ZCZBI20mEHTCjibvV5HuLe
+معرف الأصل:
+281609543188010
+المنصة:تطبيق Android
+التنسيق:خلالي
+معرف الموضع:1178584049145983_1178585895812465
+تعليمات دمج مجموعة SDK
+https://developers.facebook.com/docs/audience-network/android
+اختبار الأدوات
+إدارة الأجهزة الاختبارية: https://business.facebook.com/pub/testing?business_id=2305586599471668
+SDK Debugger: https://developers.facebook.com/docs/audience-network/android/troubleshooting
+نسخ
+البريد الإلكتروني
+
+banar 1178584049145983_1178588042478917
