@@ -15,6 +15,6 @@
   "keyI_UN": "video",
   "compactAds": "UN,AD,FA,MO",
   "timerNext": "0:00:10",
-  "devises": false,
+  "devises": true,
   "viersonsda": "4"
 }
