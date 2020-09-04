@@ -13,8 +13,8 @@
   "key_UNid": "3658961",
   "keyB_UN": "banner",
   "keyI_UN": "video",
-  "compactAds": "MO",
+  "compactAds": "UN,AD,FA,MO",
   "timerNext": "0:00:10",
   "devises": false,
-  "viersonsda": "3"
+  "viersonsda": "4"
 }
