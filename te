@@ -1,0 +1,23 @@
+{
+  "police": "https://twitter.com",
+  "keyword": "usa,washinton",
+  "key_ADid": "3347511713222",
+  "key_ADunit": "5609683770942898",
+  "keyB_AD": "7051798472,2904422481",
+  "keyI_AD": "1531631067,2653141049,3288292219",
+  "keyB_FA": "991971601255548_991972507922124,991971601255548_991972507922124",
+  "keyI_FA": "991971601255548_991972207922154,991971601255548_991972207922154,991971601255548_991972207922154",
+    "key_N_FA": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+  "key_MOid": "2c5ebb19a3704cf2ab5cb344b12330f5",
+  "keyB_MO": "1d9c100332b046c3b9b8afc5deb2918b,1d9c100332b046c3b9b8afc5deb2918b",
+  "keyI_MO": "af918033df124265bad5fd143e3aee57,af918033df124265bad5fd143e3aee57,af918033df124265bad5fd143e3aee57",
+  "keyN_MO": "9d9ab45146a34c3283c243d908156f51",
+"key_UNid": "3658961",
+  "keyB_UN": "banner",
+  "keyI_UN": "video",
+ 
+  "compactAds": "UN,FA,AD,MO",
+  "timerNext": "0:00:10",
+  "viersonsda": "10"
+}
