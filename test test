@@ -1,5 +1,5 @@
 {
-  "police": "https://twitter.com",
+  "police": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
   "keyword": "usa,washinton",
   "key_ADid": "xxxxx",
   "key_ADunit": "xxxxx",
@@ -19,5 +19,5 @@
  
   "compactAds": "MO,FA,UN,AD",
   "timerNext": "0:00:10",
-  "viersonsda": "0"
+  "viersonsda": "1"
 }
