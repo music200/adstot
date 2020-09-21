@@ -1,21 +1,6 @@
 {
-  "euro": [
-    {
-      "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
-    "poloPRO": "7014495719192033",
-      "nain1": "7212612479",
-      "nain2": "7484075216",
-      "nain3": "8797156880",
-      "nain4": "1110238551",
-      "bain1": "9511666276",
-      "bain2": "1824747947",
-      "stor": "https://m.me/101029158066794",
-      "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQRafDzbqeBQg1UhtResPMR37w5uZbtijmG3s_ZtBTiPDEwmp&s",
-      "FAban": "",
-      "FAint": "",
-      "isadsFG": ""
-    }
-  ],
+  "stor": "https://m.me/101029158066794",
+  "imageurl":"https://ytimg.googleusercontent.com/vi/aBLxNS9zwrw/mqdefault.jpg",
   "obPhoto": [
     {
       "photo": "https://wallpapercave.com/wp/wp4912002.jpg"
