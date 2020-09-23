@@ -5,9 +5,9 @@
   "key_ADunit": "xxxxx",
   "keyB_AD": "xxxxx,xxxxx",
   "keyI_AD": "xxxxx,xxxxx,xxxxx",
-  "keyB_FA": "xxxxx,xxxxx",
-  "keyI_FA": "xxxxx,xxxxx,xxxxx",
-    "key_N_FA": "xxxxx",
+  "keyB_FA": "381846859488671_381851102821580,381846859488671_381851292821561",
+  "keyI_FA": "381846859488671_381851519488205,381846859488671_381850429488314",
+    "key_N_FA": "381846859488671",
 
   "key_MOid": "xxxxx",
   "keyB_MO": "xxxxx,xxxxx",
@@ -19,5 +19,5 @@
  
   "compactAds": "MO,FA,UN,AD",
   "timerNext": "0:00:10",
-  "viersonsda": "1"
+  "viersonsda": "10"
 }
