@@ -1,23 +1,22 @@
 {
   "police": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
   "keyword": "usa,washinton",
-  "key_ADid": "xxxxx",
-  "key_ADunit": "xxxxx",
-  "keyB_AD": "xxxxx,xxxxx",
-  "keyI_AD": "xxxxx,xxxxx,xxxxx",
-  "keyB_FA": "xxxxx,xxxxx",
-  "keyI_FA": "xxxxx,xxxxx,xxxxx",
-    "key_N_FA": "xxxxx",
-
-  "key_MOid": "xxxxx",
-  "keyB_MO": "xxxxx,xxxxx",
-  "keyI_MO": "xxxxx,xxxxx,xxxxx",
-  "keyN_MO": "xxxxx",
-"key_UNid": "xxxxx",
-  "keyB_UN": "xxxxx",
-  "keyI_UN": "xxxxx",
+ "key_ADid": "3944415643",
+  "key_ADunit": "5856602169268294",
+  "keyB_AD": "1318252308,7692088962",
+  "keyI_AD": "5065925629,2439762282,1126680618",
+  "keyB_FA": "615352625775333_615353609108568,615352625775333_615353892441873",
+  "keyI_FA": "615352625775333_615353409108588,615352625775333_615353199108609",
+  "key_N_FA": "615352625775333",
+  "key_MOid": "2c5ebb19a3704cf2ab5cb344b12330f5",
+  "keyB_MO": "d230f3c2579f48b9bb45f0844e809db6,d89a33c9d0d04d218b7c6ae859072023",
+  "keyI_MO": "1589f3acc40a423898d62f527089cfb1,df23439dd4fb4428af54679f9a1c6378",
+  "keyN_MO": "72db8480122346268e9d2e0d9bc25a76",
+  "key_UNid": "3835999",
+  "keyB_UN": "banner",
+  "keyI_UN": "video",
  
   "compactAds": "MO,FA,UN,AD",
   "timerNext": "0:00:10",
-  "viersonsda": "1"
+  "viersonsda": "10"
 }
