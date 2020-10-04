@@ -1,7 +1,7 @@
 {
   "police": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
-  "keyword": "usa,washinton",
-  "key_ADid": "5089976358",
+ "keyword": "Degree,Claim,Cord Blood",
+   "key_ADid": "5089976358x",
   "key_ADunit": "5856602169268294",
   "keyB_AD": "4474721071,8837649675",
   "keyI_AD": "4898404661,2272241323,7567965886",
@@ -16,7 +16,7 @@
  "keyB_UN": "banner",
   "keyI_UN": "video",
  
-  "compactAds": "MO,FA,UN,AD",
-  "timerNext": "0:00:10",
-  "viersonsda": "11"
+  "compactAds": "FA,UN,AD",
+  "timerNext": "0:01:00",
+  "viersonsda": "12"
 }
